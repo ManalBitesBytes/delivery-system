@@ -11,9 +11,6 @@ This system allows customers to place orders, assign drivers, process payments, 
 - Customer Management
 - Order Management
 - Payment Processing
-- Delivery Tracking
 
-### Example of Using the Delivery System
-''''python
 
 
